@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkstandart=self.webpackChunkstandart||[]).push([[710],{1710:(e,u,n)=>{n.r(u),n.d(u,{LogModule:()=>l});var t=n(4666),a=n(2560);let l=(()=>{class o{}return o.\u0275fac=function(s){return new(s||o)},o.\u0275mod=a.oAB({type:o}),o.\u0275inj=a.cJS({imports:[t.ez]}),o})()}}]);
+//# sourceMappingURL=710.824f661329315bed.js.map
